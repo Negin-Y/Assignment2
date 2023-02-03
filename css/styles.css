@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body {
+    font-family: "Courier New", sans-serif;
+    font-weight: bold;
+    background-color: gray;
+    
+    align-self: center;
+    line-height: 0.2cm;
+  }
+  header{
+    align-items: center;
+  }
+  img, audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+   
+  }
+
+
+  h1 {
+    font-family: "Georgia", cursive;
+    font-size: 4em;
+    text-align: center;
+    color: #0C2340;
+    margin-top: 100px;
+    margin-bottom: 130px;
+  }
+  
+  p {
+    font-size: 1.5em;
+    line-height: 1.5;
+    text-align: center;
+    color: #0C2340;
+    margin-bottom: 50px;
+  }
+  
+
+ 
+  footer{
+    font-family: 'Special Elite', cursive;
+    font-weight:lighter;
+    font-size: 0.7em;
+    text-align: center;
+  }
